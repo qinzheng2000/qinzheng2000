@@ -1,5 +1,6 @@
 ## Hi there 👋
                                                                                              
-I'm Yabing Wang, a Ph.D. student of XJTU. 
+I'm Zheng Qin, a Ph.D. student of XJTU. 
 - 🤔 Multimodal Large Models ｜ Multi-Object Tracking ｜ Video Generation
-- 🍙 Homepage: [`Link`](https://lijiabei-7.github.io/wyb7.github.io/)
+- 🍙 Homepage: [`Link`](https://qinzheng2000.github.io/qinzheng.github.io/)
+- 🙋‍♂️ CV : [`Link`]() (Last updated: 2025.7)
